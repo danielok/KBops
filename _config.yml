@@ -29,11 +29,9 @@ twitter_username: danielok
 github_username:  danielok
 
 # Build settings
-remote_theme: broccolini/swiss
-theme_color: blue
+theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

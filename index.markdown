@@ -1,13 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-<style>
-/* Custom styles for the home page */
-.header-title {
-  
-  font-size: 64px
-}
-</style>
+Welcome to the K-Bops blog. Here you'll find a collection of my favourite K-Pop and City Pop tracks.
