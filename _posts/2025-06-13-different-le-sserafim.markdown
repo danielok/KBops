@@ -1,0 +1,3 @@
+As teased two weeks ago, we have “Different” from Le Sserafim. A bit of a change up from their usual style, this one lowers the tempo and raises the groove. Strong drums,  bright guitars and a brass section make this a funky fresh track. Arachnophobia warning for the music video though. https://youtu.be/HFZUAXhdnHk?si=mzPD7o7o0Oc2mLfG
+
+Many people have mentioned that this is the most Rogers-like track in K-pop even though Nile Rogers didn’t work on it
