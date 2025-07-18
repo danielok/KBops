@@ -4,3 +4,10 @@
 
 layout: home
 ---
+<style>
+/* Custom styles for the home page */
+.header-title {
+  
+  font-size: 64px
+}
+</style>
