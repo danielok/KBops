@@ -29,7 +29,7 @@ twitter_username: danielok
 github_username:  danielok
 
 # Build settings
-theme: minima
+remote-theme: minima
 plugins:
   - jekyll-feed
 
