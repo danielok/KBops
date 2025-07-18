@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Just a Feeling - S.E.S."
-date:   2025-07-13 9:00:00 +0800
+date:   2025-07-04 9:00:00 +0800
 categories: kpop
 ---
 This week we throw it all the way back to first generation K-Pop superstars S.E.S. 'Just a feeling' has picture perfect pop production. <a href="https://www.youtube.com/watch?v=7j8fpjTHkUY">Watch on YouTube</a>
