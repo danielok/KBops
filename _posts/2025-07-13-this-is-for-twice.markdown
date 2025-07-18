@@ -7,4 +7,4 @@ categories: kpop
 
 Special Weekend Edition: the new Twice album was released on Friday. Title track 'This is For'
 
-https://youtu.be/eHHQaoEW30Q?si=uwL5Ctlsg5qX4V_O
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eHHQaoEW30Q" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
