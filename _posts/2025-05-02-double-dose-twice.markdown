@@ -19,4 +19,4 @@ Today's 2nd song is an absolutely banger of a dance track, with a side of bubble
 
 I think it's best described by 'twicedoodle' in the comments: "Still the most kpoppiest kpop song that ever kpopped ever!"
 
-[When choosing Scientist, I forgot that Coldplay had a song with that name. But I'll retrospectively
+[When choosing Scientist, I forgot that Coldplay had a song with that name. But I'll retrospectively  claim that as intentional.]
