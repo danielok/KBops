@@ -11,9 +11,7 @@ This week, in light of Twice's recent opening for a barely-known, small independ
 
 (In the formula O+T = &lt;3 above, O = Once - the name for Twice Fans, and T is Twice)
 
-Today's 2nd song is an absolutely banger of a dance track, with a side of bubble gum pop. "Talk that Talk" is from 2022:
-
-<a href="https://www.youtube.com/watch?v=k6jqx9kZgPM">Watch Talk that Talk on YouTube</a>
+Today's 2nd song is an absolutely banger of a dance track, with a side of bubble gum pop. "Talk that Talk" is from 2022: <a href="https://www.youtube.com/watch?v=k6jqx9kZgPM">Watch on YouTube</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6jqx9kZgPM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
