@@ -5,7 +5,7 @@ date:   2025-05-02 09:00:00 +0800
 categories: kpop
 ---
 
-This week, in light of Twice's recent opening for a barely-known, small independent UK band ColdPlay touring their Korea, I've prepared a double dose of Twice. First, this upbeat track 'Scientist' from the 2021 Album 'Formula of Love: O+T=＜3', which is the only track that comes to mind to use the words 'sine' and 'cosine' in a verse, and Einstein and Frankenstein in the bridge. <a href="https://www.youtube.com/watch?v=vPwaXytZcgI">Watch Scientist on YouTube</a>
+This week, in light of Twice's recent opening for a barely-known, small independent UK band ColdPlay during their Korea tour, I've prepared a double dose of Twice. First, this upbeat track 'Scientist' from the 2021 Album 'Formula of Love: O+T=＜3', which is the only track that comes to mind to use the words 'sine' and 'cosine' in a verse, and Einstein and Frankenstein in the bridge. <a href="https://www.youtube.com/watch?v=vPwaXytZcgI">Watch Scientist on YouTube</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vPwaXytZcgI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
