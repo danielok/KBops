@@ -19,7 +19,7 @@ Here are my personal picks for top 10 TWICE songs:
 9. The Feels
 10. This is For
 
-Honourable mention for Strategy (version 1.0)
+Honourable mention for Strategy (version 1.0).
 
 Since we've already had Heart Shaker on the blog, I'll add What is Love to the playlist, and here's the video for it. Currently sitting at 875 million views on YouTube.
 
