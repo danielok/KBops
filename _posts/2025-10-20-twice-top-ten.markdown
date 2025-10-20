@@ -7,7 +7,7 @@ categories: kpop
 
 Time for a top ten list of TWICE (트와이스) songs to celebrate their 10th anniversary. According to Wikipedia, "the girl group has officially released 258 songs. 133 songs are originally recorded in Korean, 64 are originally in Japanese and 28 are originally in English. Additionally, 33 songs are versions of songs originally recorded in a different language."
 
-Here are my personal picks:
+Here are my personal picks for top 10 TWICE songs:
 1. Heart Shaker
 2. What is Love?
 3. Magical
