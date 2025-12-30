@@ -1,0 +1,52 @@
+---
+layout: home
+title: Welcome to K-Bops
+---
+
+<p>
+Here you'll find a collection of my favourite K-Pop and City Pop tracks. If you just want to get straight to the music, I've setup a <a href="https://music.youtube.com/playlist?list=PLYc47Q_0mrqiN9P1-YVuv9y7psQFXeU4e">K-Bops YouTube Music Playlist</a>
+</p>
+<p>
+<!-- Pagination links -->
+<div class="pagination" style="text-align: right;">
+  {% if paginator.previous_page %}
+    <a href="/KBops{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous"> </span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/KBops{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next "> </span>
+  {% endif %}
+</div>
+</p>
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="/KBops{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+<p>
+<!-- Pagination links -->
+<div class="pagination" style="text-align: right;">
+  {% if paginator.previous_page %}
+    <a href="/KBops{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous"> </span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/KBops{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next "> </span>
+  {% endif %}
+</div>
+</p>
