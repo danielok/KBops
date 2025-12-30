@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Best of 2025"
+title:  "K-Bops Special: Best songs of 2025"
 date:   2025-12-30 9:00:00 +0800
 categories: kpop
 ---
