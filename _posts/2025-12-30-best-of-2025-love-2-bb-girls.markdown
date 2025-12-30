@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Best of 2025"
-date:   2026-12-29 9:00:00 +0800
+date:   2025-12-30 9:00:00 +0800
 categories: kpop
 ---
 
@@ -35,4 +35,4 @@ IVE once again hit us with an apologetic banger! This powerful dance track one f
 
 *Off the record - IVE* Defies genre definitions, but is has moderate tempo, richly produced sound with a great hip hop rap.
 
-*Green light - BoA* My favourite from the legendary BoA
+*Green light - BoA* Lovely city pop style track from the legendary BoA.
