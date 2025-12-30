@@ -13,15 +13,26 @@ This magical k-city pop song has been my top played track on YT Music this year,
 
 ## 2. Different - LE SSERAFIM
 
+The funkiest track of the year, brought to you by the queens of cool - Le Sserafim. This is a Japanese single, but also has an English version. Criminal that it's only 2:23 long. 
+
 ## 3. ShaLaLa - SAYMYNAME
+
+This one is a cheerful and upbeat track blending k-city pop and synth pop. Guaranteed to put a smile on your face.
 
 ## 4. I want you - SMORZ
 
+Sugary sweet bubblegum pop from Smorz.
+
 ## 5. This is For - TWICE
 
-## Honerable Mention: Be Alright - IVE
+Twice never stop evolving, and This is For is another new sound from them. Powerful but groovy this one definitely gave me goosebumps when they opened with it at their live concert I saw in Melbourne. Twice never disappoints. 
+
+## Honourable Mention: Be Alright - IVE
+
+IVE once again hit us with an apologetic banger! This powerful dance track one from their Japanese release packs a punch!
 
 ## Older Tracks
 
-* Off the record - IVE
-* Green light - BoA
+*Off the record - IVE* Defies genre definitions, but is has moderate tempo, richly produced sound with a great hip hop rap.
+
+*Green light - BoA* My favourite from the legendary BoA
