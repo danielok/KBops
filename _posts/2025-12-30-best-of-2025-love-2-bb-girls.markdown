@@ -15,7 +15,7 @@ This magical k-city pop song has been my top played track on YT Music this year,
 
 The funkiest track of the year, brought to you by the queens of cool - Le Sserafim. This is a Japanese single, but also has an English version. Criminal that it's only 2:23 long. 
 
-## 3. ShaLaLa - SAYMYNAME
+## 3. ShaLaLa - Say My Name
 
 This one is a cheerful and upbeat track blending k-city pop and synth pop. Guaranteed to put a smile on your face.
 
@@ -29,10 +29,10 @@ Twice never stop evolving, and This is For is another new sound from them. Power
 
 ## Honourable Mention: Be Alright - IVE
 
-IVE once again hit us with an apologetic banger! This powerful dance track one from their Japanese release packs a punch!
+IVE once again hit us with an unapologetic banger! This powerful dance track one from their Japanese release packs a punch!
 
 ## Older Tracks
 
-*Off the record - IVE* Defies genre definitions, but is has moderate tempo, richly produced sound with a great hip hop rap.
+*Off the record - IVE:* Defies genre definitions, but is has moderate tempo, richly produced sound with a great hip hop rap.
 
-*Green light - BoA* Lovely city pop style track from the legendary BoA.
+*Green light - BoA:* Lovely city pop style track from the legendary BoA.
