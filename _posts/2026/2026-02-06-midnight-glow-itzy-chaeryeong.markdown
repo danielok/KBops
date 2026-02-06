@@ -7,7 +7,7 @@ categories: kpop
 
 ITZY's Chaeryeong is here to bless your ears this week with a beautiful solo performance for a K-Drama soundtrack. 'Midnight Glow' is a song made for Part 4 of 'No tail to tell', since this isn't a K-Drama blog I don't have much to tell you about the show, but I can tell you this song. Right from the start, it shimmers with sparkling synthesizers and perfect city pop vibes. Chaeryeong's vocal range is showcased here with her smooth and pure tone a distinct change of style from ITZY's usual high intensity songs. Also note the delightful synth solo before the 2nd chorus.
 
-'Midnight Glow' is guaranteed to have you feeling relaxed and put a smile on your face! We need more city pop from Chaeryeong! Rumour has it she's going to do a solo project soon, fingers cross there's more tracks like this!
+'Midnight Glow' is guaranteed to have you feeling relaxed and put a smile on your face! We need more city pop from Chaeryeong! Rumour has it she's going to do a solo project soon, fingers crossed there's more tracks like this!
 
 <a href="https://www.youtube.com/watch?v=lyQeRW9_D64">Watch on YouTube</a>
 
