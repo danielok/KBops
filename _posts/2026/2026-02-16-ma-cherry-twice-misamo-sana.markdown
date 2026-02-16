@@ -11,8 +11,6 @@ The latest album from Misamo (Twice's Japanese subunit of Mina, Sana and Momo) f
 
 This track is short but sweet, and oh so catchy!
 
-
-
 <a href="https://www.youtube.com/watch?v=y3rFWNgC8o0">Watch on YouTube</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3rFWNgC8o0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
